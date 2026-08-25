@@ -23,6 +23,14 @@ section {
   border-radius: 10px;
 }
 
+.Jedi {
+  color: #4dabf7;
+}
+
+.Sith {
+  color: #ff6b6b;
+}
+
 ul {
   list-style: none;
   padding: 0;
